@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@types/node": "20.6.0",
-    "knip": "5.60.0",
+    "knip": "5.63.1",
     "typescript": "5.2.2"
   }
 }
